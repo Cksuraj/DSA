@@ -15,6 +15,7 @@ class Solution {
         q.add(start % mod);
 
         // to reach start we require 0 steps
+        
         ans[start] = 0;
 
         // till all states are visited
