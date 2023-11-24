@@ -21,9 +21,11 @@ There are two trees both having 3 nodes and 2 edges, both trees are identical ha
 Example 2:
 
 Input:
+
     1       1
   /  \     /  \
  2    3   3    2
+
 Output: 
 No
 Explanation: There are two trees both having 3 nodes and 2 edges, but both trees are not identical.
